@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void hello(View view) {
 
-        btn.setText("hello my name is Dean David");
+        btn.setText("Oh, yea, I’ve been clicked!");
     }
 }
